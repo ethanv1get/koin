@@ -1,17 +1,17 @@
 {
-  "version": "1.0.4",
-  "notes": "1. 快捷触发手势正式升级为「同时按下音量上键 + 音量下键」，平时调音量零误触、带轻震动反馈；2. 新增 vivo / 小米 / OPPO / 华为自启动与后台保活直达跳转；3. 更新检测升级为国内多线路并发竞速，秒检新版、无 VPN 直连更稳。",
-  "sha256": "fe9fd26ef35c49f3ca7fab09ee07e9f5d5e6f76a375669e50ebab320c37431e0",
-  "downloadUrl": "https://tvv.tw/https://github.com/ethanv1get/koin/releases/download/v1.0.4/Koin-v1.0.4-arm64.apk",
+  "version": "1.0.5",
+  "notes": "1. 更新检测引擎终极优化：9 条国内线路并发检测并自动择取最高版本号，彻底杜绝旧 CDN 缓存挡住新版本推送；2. 完整包含同时按音量上下键闪记、vivo 等国产机自启动直达、加高宽裕悬浮小窗与纯净空白账本。",
+  "sha256": "39895d2fcf6581f9334fedd7c47a624f0df8ccc189aecdb9d3d4e3e411d7fe4f",
+  "downloadUrl": "https://tvv.tw/https://github.com/ethanv1get/koin/releases/download/v1.0.5/Koin-v1.0.5-arm64.apk",
   "downloadUrls": [
-    "https://tvv.tw/https://github.com/ethanv1get/koin/releases/download/v1.0.4/Koin-v1.0.4-arm64.apk",
-    "https://gh-proxy.org/https://github.com/ethanv1get/koin/releases/download/v1.0.4/Koin-v1.0.4-arm64.apk",
-    "https://edgeone.gh-proxy.org/https://github.com/ethanv1get/koin/releases/download/v1.0.4/Koin-v1.0.4-arm64.apk",
-    "https://cdn.gh-proxy.org/https://github.com/ethanv1get/koin/releases/download/v1.0.4/Koin-v1.0.4-arm64.apk",
-    "https://ghproxy.vip/https://github.com/ethanv1get/koin/releases/download/v1.0.4/Koin-v1.0.4-arm64.apk",
-    "https://gh.catmak.name/https://github.com/ethanv1get/koin/releases/download/v1.0.4/Koin-v1.0.4-arm64.apk",
-    "https://ghfile.geekertao.top/https://github.com/ethanv1get/koin/releases/download/v1.0.4/Koin-v1.0.4-arm64.apk",
-    "https://github.com/ethanv1get/koin/releases/download/v1.0.4/Koin-v1.0.4-arm64.apk"
+    "https://tvv.tw/https://github.com/ethanv1get/koin/releases/download/v1.0.5/Koin-v1.0.5-arm64.apk",
+    "https://gh-proxy.org/https://github.com/ethanv1get/koin/releases/download/v1.0.5/Koin-v1.0.5-arm64.apk",
+    "https://edgeone.gh-proxy.org/https://github.com/ethanv1get/koin/releases/download/v1.0.5/Koin-v1.0.5-arm64.apk",
+    "https://cdn.gh-proxy.org/https://github.com/ethanv1get/koin/releases/download/v1.0.5/Koin-v1.0.5-arm64.apk",
+    "https://ghproxy.vip/https://github.com/ethanv1get/koin/releases/download/v1.0.5/Koin-v1.0.5-arm64.apk",
+    "https://gh.catmak.name/https://github.com/ethanv1get/koin/releases/download/v1.0.5/Koin-v1.0.5-arm64.apk",
+    "https://ghfile.geekertao.top/https://github.com/ethanv1get/koin/releases/download/v1.0.5/Koin-v1.0.5-arm64.apk",
+    "https://github.com/ethanv1get/koin/releases/download/v1.0.5/Koin-v1.0.5-arm64.apk"
   ],
-  "updatedAt": "2026-11-22T13:08:57.823Z"
+  "updatedAt": "2026-11-22T13:18:10.250Z"
 }
