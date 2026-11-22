@@ -1,17 +1,14 @@
 {
   "version": "1.0.3",
-  "notes": "1. 重构手机端更新检查引擎：新增国内直连 CDN 镜像（无梯子秒级响应）+ 多源并发竞速与 12 秒宽容超时，彻底修复「暂无法连接更新服务器」；2. 剔除失效 403 镜像节点，升级为 7 条实测可用的国内 APK 下载加速线路并放宽下载超时；3. 包含 v1.0.2 全部改进（纯空白账本、原生悬浮小窗预览、无障碍后台防杀保活）。",
-  "sha256": "cd1ee81e4b0452322a7a08fd35ef90010852a1e123c00fb16a53207dcd36151c",
-  "downloadUrl": "https://gh-proxy.org/https://github.com/ethanv1get/koin/releases/download/v1.0.3/Koin-v1.0.3-arm64.apk",
+  "notes": "1. 快捷触发手势升级为「同时按下音量上键 + 音量下键」，彻底避免平时调音量误触，触发时带轻震动反馈；2. 新增 vivo / 小米 / OPPO / 华为自启动与后台权限智能直达跳转，后台保活配置更省心。",
+  "sha256": "1a143be0a24fa26a5fd72e5674b57480c69f3a0c25ef474e54879ef41a690f3c",
+  "downloadUrl": "https://ghproxy.vip/https://github.com/ethanv1get/koin/releases/download/v1.0.3/Koin-v1.0.3-arm64.apk",
   "downloadUrls": [
-    "https://gh-proxy.org/https://github.com/ethanv1get/koin/releases/download/v1.0.3/Koin-v1.0.3-arm64.apk",
-    "https://edgeone.gh-proxy.org/https://github.com/ethanv1get/koin/releases/download/v1.0.3/Koin-v1.0.3-arm64.apk",
-    "https://cdn.gh-proxy.org/https://github.com/ethanv1get/koin/releases/download/v1.0.3/Koin-v1.0.3-arm64.apk",
-    "https://ghfast.top/https://github.com/ethanv1get/koin/releases/download/v1.0.3/Koin-v1.0.3-arm64.apk",
     "https://ghproxy.vip/https://github.com/ethanv1get/koin/releases/download/v1.0.3/Koin-v1.0.3-arm64.apk",
     "https://tvv.tw/https://github.com/ethanv1get/koin/releases/download/v1.0.3/Koin-v1.0.3-arm64.apk",
+    "https://gh.catmak.name/https://github.com/ethanv1get/koin/releases/download/v1.0.3/Koin-v1.0.3-arm64.apk",
     "https://ghfile.geekertao.top/https://github.com/ethanv1get/koin/releases/download/v1.0.3/Koin-v1.0.3-arm64.apk",
     "https://github.com/ethanv1get/koin/releases/download/v1.0.3/Koin-v1.0.3-arm64.apk"
   ],
-  "updatedAt": "2026-11-22T12:49:44.327Z"
+  "updatedAt": "2026-11-22T13:02:22.512Z"
 }
