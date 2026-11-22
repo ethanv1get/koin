@@ -1,14 +1,14 @@
 {
-  "version": "1.0.1",
-  "notes": "1. 去除开屏前模糊图标闪烁，点击即直接进入清晰 Koin 封面动画；2. 快捷记账三步权限支持实时自动检测，完成后自动变绿显示「✓ 已完成」；3. 重构双击音量下键为系统无障碍浮窗直弹（绕过安卓后台拦截 + 震动反馈 + 更宽容双击间隔）；4. 全面加大悬浮记账小窗高度、金额栏与按键尺寸，支持收支切换，单手操作更顺手。",
-  "sha256": "a22263c09a34a4781ffb4ac4a1d077ff57e422a65cd5d8e6c90f688c9c189b84",
-  "downloadUrl": "https://ghproxy.vip/https://github.com/ethanv1get/koin/releases/download/v1.0.1/Koin-v1.0.1-arm64.apk",
+  "version": "1.0.2",
+  "notes": "1. 全新安装默认纯空白账本（移除所有示例账单，老版本升级也会自动清理旧示例账单且保留真实记录）；2. 安卓端点击「预览小窗效果」直接弹出真实原生悬浮小窗，彻底消除状态栏遮挡；3. 无障碍监听服务新增防滑杀后台属性（stopWithTask=false）与静默前台保活常驻通知（点通知也可一键闪记），大幅降低关后台后权限掉线概率。",
+  "sha256": "32d032dce907f43858cd8d6a74aed1af59ecee153ef7111c0f7fda26d1eb8832",
+  "downloadUrl": "https://ghproxy.vip/https://github.com/ethanv1get/koin/releases/download/v1.0.2/Koin-v1.0.2-arm64.apk",
   "downloadUrls": [
-    "https://ghproxy.vip/https://github.com/ethanv1get/koin/releases/download/v1.0.1/Koin-v1.0.1-arm64.apk",
-    "https://tvv.tw/https://github.com/ethanv1get/koin/releases/download/v1.0.1/Koin-v1.0.1-arm64.apk",
-    "https://gh.catmak.name/https://github.com/ethanv1get/koin/releases/download/v1.0.1/Koin-v1.0.1-arm64.apk",
-    "https://ghfile.geekertao.top/https://github.com/ethanv1get/koin/releases/download/v1.0.1/Koin-v1.0.1-arm64.apk",
-    "https://github.com/ethanv1get/koin/releases/download/v1.0.1/Koin-v1.0.1-arm64.apk"
+    "https://ghproxy.vip/https://github.com/ethanv1get/koin/releases/download/v1.0.2/Koin-v1.0.2-arm64.apk",
+    "https://tvv.tw/https://github.com/ethanv1get/koin/releases/download/v1.0.2/Koin-v1.0.2-arm64.apk",
+    "https://gh.catmak.name/https://github.com/ethanv1get/koin/releases/download/v1.0.2/Koin-v1.0.2-arm64.apk",
+    "https://ghfile.geekertao.top/https://github.com/ethanv1get/koin/releases/download/v1.0.2/Koin-v1.0.2-arm64.apk",
+    "https://github.com/ethanv1get/koin/releases/download/v1.0.2/Koin-v1.0.2-arm64.apk"
   ],
-  "updatedAt": "2026-11-22T12:27:35.090Z"
+  "updatedAt": "2026-11-22T12:33:13.717Z"
 }
