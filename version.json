@@ -1,14 +1,14 @@
 {
-  "version": "1.0.0",
-  "notes": "Koin 首个正式版：极简记账、四色流光预算环、双击音量下键悬浮闪记、支持国内免翻应用内一键覆盖更新。",
-  "sha256": "66cc87eafab17da8ffaee5e05113a630f5b9488ce6daa669ff049e83ed7a0489",
-  "downloadUrl": "https://ghproxy.vip/https://github.com/ethanv1get/koin/releases/download/v1.0.0/Koin-v1.0.0-arm64.apk",
+  "version": "1.0.1",
+  "notes": "1. 去除开屏前模糊图标闪烁，点击即直接进入清晰 Koin 封面动画；2. 快捷记账三步权限支持实时自动检测，完成后自动变绿显示「✓ 已完成」；3. 重构双击音量下键为系统无障碍浮窗直弹（绕过安卓后台拦截 + 震动反馈 + 更宽容双击间隔）；4. 全面加大悬浮记账小窗高度、金额栏与按键尺寸，支持收支切换，单手操作更顺手。",
+  "sha256": "a22263c09a34a4781ffb4ac4a1d077ff57e422a65cd5d8e6c90f688c9c189b84",
+  "downloadUrl": "https://ghproxy.vip/https://github.com/ethanv1get/koin/releases/download/v1.0.1/Koin-v1.0.1-arm64.apk",
   "downloadUrls": [
-    "https://ghproxy.vip/https://github.com/ethanv1get/koin/releases/download/v1.0.0/Koin-v1.0.0-arm64.apk",
-    "https://tvv.tw/https://github.com/ethanv1get/koin/releases/download/v1.0.0/Koin-v1.0.0-arm64.apk",
-    "https://gh.catmak.name/https://github.com/ethanv1get/koin/releases/download/v1.0.0/Koin-v1.0.0-arm64.apk",
-    "https://ghfile.geekertao.top/https://github.com/ethanv1get/koin/releases/download/v1.0.0/Koin-v1.0.0-arm64.apk",
-    "https://github.com/ethanv1get/koin/releases/download/v1.0.0/Koin-v1.0.0-arm64.apk"
+    "https://ghproxy.vip/https://github.com/ethanv1get/koin/releases/download/v1.0.1/Koin-v1.0.1-arm64.apk",
+    "https://tvv.tw/https://github.com/ethanv1get/koin/releases/download/v1.0.1/Koin-v1.0.1-arm64.apk",
+    "https://gh.catmak.name/https://github.com/ethanv1get/koin/releases/download/v1.0.1/Koin-v1.0.1-arm64.apk",
+    "https://ghfile.geekertao.top/https://github.com/ethanv1get/koin/releases/download/v1.0.1/Koin-v1.0.1-arm64.apk",
+    "https://github.com/ethanv1get/koin/releases/download/v1.0.1/Koin-v1.0.1-arm64.apk"
   ],
-  "updatedAt": "2026-11-22T11:22:36.601Z"
+  "updatedAt": "2026-11-22T12:27:35.090Z"
 }
