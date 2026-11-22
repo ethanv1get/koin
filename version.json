@@ -1,14 +1,17 @@
 {
-  "version": "1.0.2",
-  "notes": "1. 全新安装默认纯空白账本（移除所有示例账单，老版本升级也会自动清理旧示例账单且保留真实记录）；2. 安卓端点击「预览小窗效果」直接弹出真实原生悬浮小窗，彻底消除状态栏遮挡；3. 无障碍监听服务新增防滑杀后台属性（stopWithTask=false）与静默前台保活常驻通知（点通知也可一键闪记），大幅降低关后台后权限掉线概率。",
-  "sha256": "32d032dce907f43858cd8d6a74aed1af59ecee153ef7111c0f7fda26d1eb8832",
-  "downloadUrl": "https://ghproxy.vip/https://github.com/ethanv1get/koin/releases/download/v1.0.2/Koin-v1.0.2-arm64.apk",
+  "version": "1.0.3",
+  "notes": "1. 重构手机端更新检查引擎：新增国内直连 CDN 镜像（无梯子秒级响应）+ 多源并发竞速与 12 秒宽容超时，彻底修复「暂无法连接更新服务器」；2. 剔除失效 403 镜像节点，升级为 7 条实测可用的国内 APK 下载加速线路并放宽下载超时；3. 包含 v1.0.2 全部改进（纯空白账本、原生悬浮小窗预览、无障碍后台防杀保活）。",
+  "sha256": "cd1ee81e4b0452322a7a08fd35ef90010852a1e123c00fb16a53207dcd36151c",
+  "downloadUrl": "https://gh-proxy.org/https://github.com/ethanv1get/koin/releases/download/v1.0.3/Koin-v1.0.3-arm64.apk",
   "downloadUrls": [
-    "https://ghproxy.vip/https://github.com/ethanv1get/koin/releases/download/v1.0.2/Koin-v1.0.2-arm64.apk",
-    "https://tvv.tw/https://github.com/ethanv1get/koin/releases/download/v1.0.2/Koin-v1.0.2-arm64.apk",
-    "https://gh.catmak.name/https://github.com/ethanv1get/koin/releases/download/v1.0.2/Koin-v1.0.2-arm64.apk",
-    "https://ghfile.geekertao.top/https://github.com/ethanv1get/koin/releases/download/v1.0.2/Koin-v1.0.2-arm64.apk",
-    "https://github.com/ethanv1get/koin/releases/download/v1.0.2/Koin-v1.0.2-arm64.apk"
+    "https://gh-proxy.org/https://github.com/ethanv1get/koin/releases/download/v1.0.3/Koin-v1.0.3-arm64.apk",
+    "https://edgeone.gh-proxy.org/https://github.com/ethanv1get/koin/releases/download/v1.0.3/Koin-v1.0.3-arm64.apk",
+    "https://cdn.gh-proxy.org/https://github.com/ethanv1get/koin/releases/download/v1.0.3/Koin-v1.0.3-arm64.apk",
+    "https://ghfast.top/https://github.com/ethanv1get/koin/releases/download/v1.0.3/Koin-v1.0.3-arm64.apk",
+    "https://ghproxy.vip/https://github.com/ethanv1get/koin/releases/download/v1.0.3/Koin-v1.0.3-arm64.apk",
+    "https://tvv.tw/https://github.com/ethanv1get/koin/releases/download/v1.0.3/Koin-v1.0.3-arm64.apk",
+    "https://ghfile.geekertao.top/https://github.com/ethanv1get/koin/releases/download/v1.0.3/Koin-v1.0.3-arm64.apk",
+    "https://github.com/ethanv1get/koin/releases/download/v1.0.3/Koin-v1.0.3-arm64.apk"
   ],
-  "updatedAt": "2026-11-22T12:33:13.717Z"
+  "updatedAt": "2026-11-22T12:49:44.327Z"
 }
